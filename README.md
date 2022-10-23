@@ -11,6 +11,10 @@ pip3 install snscrape
 ```
 pip3 install pandas
 ```
+- typer
+```
+pip3 install typer
+```
 
 ## Installation
 ```
